@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://poepheeji.informalgovernance.org/sitemap.xml
